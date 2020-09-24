@@ -1,13 +1,13 @@
 import React from 'react';
 
-import Logo from '../../assets/MyImage.jpeg'
+import Logo from '../../assets/Logo.svg'
 
 import { Button } from './styles';
 
 export interface Props {
   selected?: boolean;
   isHome?: boolean;
-  hasNotifications: boolean;
+  hasNotifications?: boolean;
   mentions?: number;
 }
 

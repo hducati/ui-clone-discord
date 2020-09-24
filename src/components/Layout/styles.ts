@@ -15,7 +15,7 @@ export const Grid = styled.div`
   grid-template-rows: 46px auto 52px;
 
   grid-template-areas: 
-    'SL SN CL CL'
+    'SL SN CI CI'
     'SL CL CD UL'
     'SL UI CD UL';
   
