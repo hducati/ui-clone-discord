@@ -35,6 +35,7 @@ export const Container = styled.div`
       color: var(--white);
     }
   }
+
 `;
 
 export const HashtagIcon = styled(Hashtag)`
